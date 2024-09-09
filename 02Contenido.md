@@ -126,7 +126,7 @@ Para el desarrollo de las sesiones y laboratorios, será indispensable el uso de
 - Datasets de experimentos físicos para aplicar Physics Informed
 
 
-# Evaluacíon.
+# Evaluación.
 
 La evaluación está diseñada para fomentar en el estudiante el cuestionamiento continuo y retroalimentación rápida. El objetivo de las actividades de clase es poner en práctica lo comunicado por el profesor y los elementos básicos de la teoría, adicionalmente preguntas asociadas a las actividades también serán diseñadas para propiciar la investigación en el aula de clase. Por otro lado, el laboratorio busca la práctica de lo estudiado y comprendido en clase con material autocontenido para generar retroalimentación automática. 
 
