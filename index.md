@@ -10,7 +10,7 @@ permalink: /
 # Aprendizaje estadístico para fisicos
 {: .fs-9 }
 
-Este es la web del curso de aprendizaje estadístico para físicos de la 
+Este es la web del curso de aprendizaje estadístico de la 
 Universidad de Antioquia
 {: .fs-6 .fw-300 }
 
@@ -40,7 +40,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Pandas B | [Mat 2](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_01b_pandas.ipynb){: .btn .btn-blue }| |
 |Mlops | [Mlops 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/imagenes/Sesion_03_pandas.gif?raw=true){: .btn .btn-blue }| |
 
-
+<!-- 
 
 | Introducción machine learning|  | |
 |--------|-----------|
@@ -86,4 +86,4 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 | Lab Final |  | |
 |Laboratorio   | [Laboratorio ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/LaboratorioFinal.ipynb){: .btn .btn-green }| |
-
+ -->
