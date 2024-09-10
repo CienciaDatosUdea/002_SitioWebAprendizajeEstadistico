@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Este es la web del curdo de aprendizaje estadístico para fisicos de la 
+description: "Este es la web del curso de aprendizaje estadístico.
 Universidad de Antioquia"
 permalink: /
 ---
@@ -10,8 +10,7 @@ permalink: /
 # Aprendizaje estadístico para fisicos
 {: .fs-9 }
 
-Este es la web del curso de aprendizaje estadístico de la 
-Universidad de Antioquia
+Este es la web del curso de aprendizaje estadístico del instituto de física de la Universidad de Antioquia
 {: .fs-6 .fw-300 }
 
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
@@ -20,25 +19,25 @@ Universidad de Antioquia
 
 En las tablas se incluyen los link a los laboratorio, notas de clase y actividades a realizar durante el semestre
 
-| Nueva|  | |
-|--------|-----------|
-|Programa del curso | [Lab 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/presentaciones/introduccion/programa.pdf){: .btn .btn-green }| |
 
-
-| Introduccion|  | |
+| Introducción|  | |
 |--------|-----------|
 |Programa del curso | [Programa 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/presentaciones/introduccion/programa.pdf){: .btn .btn-green }| |
-|Introducción | [Introducción 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico){: .btn .btn-green }| |
-|Evaluacion | [Eval 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/presentaciones/introduccion/eval.md){: .btn .btn-green }| |
+|Introducción | [Introducción 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_00_introduccion.ipynb){: .btn .btn-green }| |
+|Mlops | [Mlops 1](https://github.com/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/imagenes/Sesion_03_pandas.gif?raw=true){: .btn .btn-blue }| |
+|Guia de entrega Tareas| [Github](https://docs.google.com/presentation/d/1-S9rPT4xcAzL3UvNJJh1y8t30k93kXqT/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
 
 
 
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
-|Pandas A | [Mat 1](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_01a_python_pandas.ipynb){: .btn .btn-green }| |
-|Laboratorio | [Lab 1](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_01_pandas.ipynb){: .btn .btn-green }| |
-|Pandas B | [Mat 2](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_01b_pandas.ipynb){: .btn .btn-blue }| |
-|Mlops | [Mlops 1](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/imagenes/Sesion_03_pandas.gif?raw=true){: .btn .btn-blue }| |
+|Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01a_python_pandas.ipynb){: .btn .btn-green }| |
+|Laboratorio | [Lab 1](){: .btn .btn-green }| |
+|Pandas B | [Mat 2](){: .btn .btn-blue }| |
+
+
+
+
 
 <!-- 
 
