@@ -7,7 +7,7 @@ Universidad de Antioquia"
 permalink: /
 ---
 
-# Aprendizaje estadístico para fisicos
+# Aprendizaje estadístico 
 {: .fs-9 }
 
 Este es la web del curso de aprendizaje estadístico del instituto de física de la Universidad de Antioquia
@@ -29,18 +29,17 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Guia de entrega Tareas| [Github](https://docs.google.com/presentation/d/1-S9rPT4xcAzL3UvNJJh1y8t30k93kXqT/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
 
 
-
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
 |Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01a_python_pandas.ipynb){: .btn .btn-green }| |
-|Laboratorio | [Lab 1](){: .btn .btn-green }| |
-|Pandas B | [Mat 2](){: .btn .btn-blue }| |
 
 
 
 
 
 <!-- 
+|Laboratorio | [Lab 1](){: .btn .btn-green }| |
+|Pandas B | [Mat 2](){: .btn .btn-blue }| |
 
 | Introducción machine learning|  | |
 |--------|-----------|
