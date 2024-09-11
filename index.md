@@ -25,13 +25,13 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Programa del curso | [Programa 1](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Programa/ProgramaAE.pdf){: .btn .btn-green }| |
 |Importancia de los datos | [Presentación](https://docs.google.com/presentation/d/1SrqIeip_4TOwvEmoUX60Wo6pSO3ZwyeO/edit?usp=share_link&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
 |Mlops | [Mlops 1](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/imagenes/Sesion_03_pandas.gif?raw=true){: .btn .btn-blue }| |
-|Introducción | [Introducción 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_00_introduccion.ipynb){: .btn .btn-green }| |
+|Introducción | [Introducción 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_00_introduccion_v1.ipynb){: .btn .btn-green }| |
 |Guia de entrega Tareas| [Github](https://docs.google.com/presentation/d/1-S9rPT4xcAzL3UvNJJh1y8t30k93kXqT/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
 
 
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
-|Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01a_python_pandas.ipynb){: .btn .btn-green }| |
+|Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
 
 
 
