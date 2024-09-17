@@ -32,6 +32,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
 |Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
+|Pandas B | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01b_pandas_V1.ipynb){: .btn .btn-green }| |
 
 
 
