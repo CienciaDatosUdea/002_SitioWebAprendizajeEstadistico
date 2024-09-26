@@ -27,7 +27,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Pandas B | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01b_pandas_V1.ipynb){: .btn .btn-green }| |
 |Laboratorio | [Lab 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_01_pandas.ipynb){: .btn .btn-green }| |
 
-
+| Introducción machine learning|  | |
+|--------|-----------|
+|1D   | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_02_intuicion_estadistica_v1.ipynb){: .btn .btn-green }| |
 
 | Introducción|  | |
 |--------|-----------|
