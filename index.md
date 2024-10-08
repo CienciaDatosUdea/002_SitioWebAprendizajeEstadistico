@@ -19,6 +19,11 @@ Este es la web del curso de aprendizaje estadístico del instituto de física de
 
 En las tablas se incluyen los link a los laboratorio, notas de clase y actividades a realizar durante el semestre
 
+| Regresión lienal|  | |
+|--------|-----------|
+|1D   | [Lab 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_03_reg_lin_grad_descV1.ipynb){: .btn .btn-green }| |
+
+
 | Introducción machine learning|  | |
 |--------|-----------|
 |1D   | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_02_intuicion_estadistica_v1.ipynb){: .btn .btn-green }| |
