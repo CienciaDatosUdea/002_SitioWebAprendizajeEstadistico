@@ -25,8 +25,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 | N-D  | [Mat 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_05_regresion_multivariadaV3.ipynb){: .btn .btn-green }| |
 | Notas CS229 | [Mat 4](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Referencias/cs229-notes1.pdf){: .btn .btn-green }| |
 | Notas clase | [Mat 5](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Referencias/Sesion_06_ecuacion_normal_maxima_verosimilitud.pdf){: .btn .btn-green }| |
-| Punto de vista probabilista | [Mat 6](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_06_regresion_multivariada_normal_equation_v1.ipynb){: .btn .btn-green }| |
-|Ecuación Normal    | [Lab 3](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_05_NormalEquations.ipynb){: .btn .btn-green }| |
+| Punto de vista probabilista | [Mat 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_06_regresion_multivariada_normal_equation_v1.ipynb){: .btn .btn-green }| |
+|Problema General    | [Lab 5](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_05_ABC_Modelo.ipynb){: .btn .btn-green }| |
+
 
 | Regresión lineal|  | |
 |--------|-----------|
