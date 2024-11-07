@@ -19,6 +19,12 @@ Este es la web del curso de aprendizaje estadístico del instituto de física de
 
 En las tablas se incluyen los link a los laboratorio, notas de clase y actividades a realizar durante el semestre
 
+| Red neuronal|  | |
+|--------|-----------|
+|Laboratorio  | [Lab 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_07_nn_zeroV1.ipynb){: .btn .btn-green }| |
+|Teoria  | [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_09_neuronal_network.ipynb){: .btn .btn-green }| |
+
+
 | Regresión multivariada|  | |
 |--------|-----------|
 |Laboratorio  | [Lab 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_04_reg_multivariada.ipynb){: .btn .btn-green }| |
