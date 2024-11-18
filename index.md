@@ -24,6 +24,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Parte Sol Lab  | [Lab 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_07_nn_zeroV1_sol.ipynb){: .btn .btn-green }| |
 |Laboratorio  | [Lab 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_07_nn_zeroV1.ipynb){: .btn .btn-green }| |
 |Teoria  | [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_09_neuronal_networkV1.ipynb){: .btn .btn-green }| |
+|Laboratorio Keras  | [Lab 7](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_08_nn_keras__V0.ipynb){: .btn .btn-green }| |
 
 
 | Regresión multivariada|  | |
