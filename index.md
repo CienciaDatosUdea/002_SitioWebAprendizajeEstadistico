@@ -19,6 +19,12 @@ Este es la web del curso de aprendizaje estadístico del instituto de física de
 
 En las tablas se incluyen los link a los laboratorio, notas de clase y actividades a realizar durante el semestre
 
+
+| Support Vector Machine |  | |
+|--------|-----------|
+|Laboratorio  y teoria| [Lab 11](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_11_SVM_v2.ipynb){: .btn .btn-green }| |
+
+
 | Red neuronal|  | |
 |--------|-----------|
 |Parte Sol Lab  | [Lab 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_07_nn_zeroV1_sol.ipynb){: .btn .btn-green }| |
