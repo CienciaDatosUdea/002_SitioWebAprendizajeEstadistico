@@ -20,9 +20,21 @@ Este es la web del curso de aprendizaje estadístico del instituto de física de
 En las tablas se incluyen los link a los laboratorio, notas de clase y actividades a realizar durante el semestre
 
 
+|Dessicion Tree|  | |
+|Presentacion| [Teoria](https://docs.google.com/presentation/d/1uVz0-uUYrvXL-FaJeMEwERZlbNW853QL/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+|Dessicion Tree| [Teoria](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_12_Desicion_Tree_V1.ipynb){: .btn .btn-green }| |
+|Bootstraping| [Teoria](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_13_Bootstraping_v1.ipynb){: .btn .btn-green }| |
+|Random Forest| [Teoria](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_14_RandomForest_v1.ipynb){: .btn .btn-green }| |
+
 | Support Vector Machine |  | |
 |--------|-----------|
 |Laboratorio  y teoria| [Lab 11](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_11_SVM_v2.ipynb){: .btn .btn-green }| |
+
+
+|Especificida y Sensibilidad |  | |
+|--------|-----------|
+|Teoría| [Lab 11](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_10_EspecificidadSensibilidadROC_v1.ipynb){: .btn .btn-green }| |
+
 
 
 | Red neuronal|  | |
