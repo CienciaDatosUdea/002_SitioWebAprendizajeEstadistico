@@ -20,9 +20,9 @@ Este es la web del curso de aprendizaje estadístico del instituto de física de
 En las tablas se incluyen los link a los laboratorio, notas de clase y actividades a realizar durante el semestre
 
 
-|Dessicion Tree|  | |
-|Presentacion| [Teoria](https://docs.google.com/presentation/d/1uVz0-uUYrvXL-FaJeMEwERZlbNW853QL/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
-|Dessicion Tree| [Teoria](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_12_Desicion_Tree_V1.ipynb){: .btn .btn-green }| |
+|Decision tree|  | |
+|Decision tree: Presentacion| [Teoria](https://docs.google.com/presentation/d/1uVz0-uUYrvXL-FaJeMEwERZlbNW853QL/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+|Decision tree: Notebook| [Teoria](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_12_Desicion_Tree_V1.ipynb){: .btn .btn-green }| |
 |Bootstraping| [Teoria](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_13_Bootstraping_v1.ipynb){: .btn .btn-green }| |
 |Random Forest| [Teoria](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_14_RandomForest_v1.ipynb){: .btn .btn-green }| |
 
