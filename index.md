@@ -22,7 +22,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 |Proyectos| ||
 |Presentacion| [Pres](https://docs.google.com/presentation/d/10R3MIPD52fmRY-hgD3DsIlBHRLmM3QAuA-3_vRqrlsg/edit?usp=drive_link){: .btn .btn-green }| |
-|Lista| [Pres](https://docs.google.com/spreadsheets/d/1Cjjin1-xvdsMyQUCmoZAnXW8vg_5oJNogGCOrP_zDQ4/edit?usp=sharing){: .btn .btn-green }| |
+|Lista| [Lista](https://docs.google.com/spreadsheets/d/1Cjjin1-xvdsMyQUCmoZAnXW8vg_5oJNogGCOrP_zDQ4/edit?usp=sharing){: .btn .btn-green }| |
 
 |Decision tree|  | |
 |Decision tree: Presentacion| [Mat](https://docs.google.com/presentation/d/1uVz0-uUYrvXL-FaJeMEwERZlbNW853QL/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
