@@ -19,6 +19,8 @@ Este es la web del curso de aprendizaje estadístico del instituto de física de
 
 En las tablas se incluyen los link a los laboratorio, notas de clase y actividades a realizar durante el semestre
 
+|Reduccion de dimensionalidad|  | |
+|Permutation test and PCA: Notebook| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_16_Reduccion_Dimensionalidad_PCA_Perm_IV.ipynb){: .btn .btn-green }| |
 
 |Proyectos| ||
 |Presentacion| [Pres](https://docs.google.com/presentation/d/10R3MIPD52fmRY-hgD3DsIlBHRLmM3QAuA-3_vRqrlsg/edit?usp=drive_link){: .btn .btn-green }| |
