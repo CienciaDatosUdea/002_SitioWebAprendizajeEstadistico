@@ -1,8 +1,52 @@
 title: Curso aprendizaje estadístico
-description: Pagina web del curso de aprendizaje estadístico
+description: Página web del curso de aprendizaje estadístico
 theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+# Theme settings
+color_scheme: light # Opciones: light, dark
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Sort order for navigation links
+nav_sort: case_insensitive # alternatively 'case_sensitive'
+
+# External navigation links
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "GitHub del curso": "https://github.com/your-repo-url"
+  "UdeA": "https://www.udea.edu.co"
+
+# Makes Aux links open in a new tab
+aux_links_new_tab: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Volver arriba"
+
+# Footer content
+footer_content: "Copyright &copy; 2025 Universidad de Antioquia. Distribuido bajo licencia MIT."
+
+# Search settings
+search_enabled: true
+search:
+  # Split pages into sections that can be searched individually
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .github
