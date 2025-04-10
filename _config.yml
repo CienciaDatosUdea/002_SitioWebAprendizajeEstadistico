@@ -15,13 +15,6 @@ heading_anchors: true
 # Sort order for navigation links
 nav_sort: case_insensitive # alternatively 'case_sensitive'
 
-# External navigation links
-aux_links:
-  "GitHub del curso": "https://github.com/your-repo-url"
-  "UdeA": "https://www.udea.edu.co"
-
-# Makes Aux links open in a new tab
-aux_links_new_tab: true
 
 # Back to top link
 back_to_top: true
