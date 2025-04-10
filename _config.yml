@@ -6,8 +6,8 @@ url: https://just-the-docs.github.io
 
 # Theme settings
 color_scheme: light # Opciones: light, dark
-logo: "/assets/images/logo.png"
-favicon_ico: "/assets/images/favicon.ico"
+logo: "/assets/images/UdeA.png"
+#favicon_ico: "/assets/images/favicon.ico"
 
 # Enable or disable heading anchors
 heading_anchors: true
