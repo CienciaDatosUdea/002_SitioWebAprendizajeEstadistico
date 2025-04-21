@@ -9,7 +9,7 @@ permalink: /
 
 # Aprendizaje estadístico 
 {: .fs-9 }
-adsfadsfadsfadfas
+
 Este es la web del curso de aprendizaje estadístico del instituto de física de la Universidad de Antioquia
 {: .fs-6 .fw-300 }
 
@@ -19,6 +19,31 @@ Este es la web del curso de aprendizaje estadístico del instituto de física de
 
 En las tablas se incluyen los link a los laboratorio, notas de clase y actividades a realizar durante el semestre
 
+
+
+
+
+| Introducción|  | |
+|--------|-----------|
+|Programa del curso | [Programa 1](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Programa/ProgramaAE.pdf){: .btn .btn-green }| |
+|Importancia de los datos | [Presentación](https://docs.google.com/presentation/d/1SrqIeip_4TOwvEmoUX60Wo6pSO3ZwyeO/edit?usp=share_link&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+|Mlops | [Mlops 1](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/imagenes/Sesion_03_pandas.gif?raw=true){: .btn .btn-blue }| |
+|Introducción | [Introducción 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_00_introduccion_v1.ipynb){: .btn .btn-green }| |
+|Guia de entrega Tareas| [Github](https://docs.google.com/presentation/d/1-S9rPT4xcAzL3UvNJJh1y8t30k93kXqT/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+
+| Python I: Funciones y pandas|  | |
+|--------|-----------|
+|Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
+|Pandas B | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01b_pandas_V1.ipynb){: .btn .btn-green }| |
+|Laboratorio | [Lab 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_01_pandas.ipynb){: .btn .btn-green }| |
+
+
+
+
+
+
+
+<!-- 
 |Reduccion de dimensionalidad|  | |
 |Permutation test and PCA: Notebook| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_16_Reduccion_Dimensionalidad_PCA_Perm_IV.ipynb){: .btn .btn-green }| |
 
@@ -70,26 +95,18 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |1D   | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_02_intuicion_estadistica_v1.ipynb){: .btn .btn-green }| |
 |2D   | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_03_intuicion_estadistica_II_v1.ipynb){: .btn .btn-green }| |
-|Laboratorio | [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_02_v1.ipynb){: .btn .btn-green }| |
-
-| Python I: Funciones y pandas|  | |
-|--------|-----------|
-|Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
-|Pandas B | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01b_pandas_V1.ipynb){: .btn .btn-green }| |
-|Laboratorio | [Lab 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_01_pandas.ipynb){: .btn .btn-green }| |
-
-
-| Introducción|  | |
-|--------|-----------|
-|Programa del curso | [Programa 1](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Programa/ProgramaAE.pdf){: .btn .btn-green }| |
-|Importancia de los datos | [Presentación](https://docs.google.com/presentation/d/1SrqIeip_4TOwvEmoUX60Wo6pSO3ZwyeO/edit?usp=share_link&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
-|Mlops | [Mlops 1](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/imagenes/Sesion_03_pandas.gif?raw=true){: .btn .btn-blue }| |
-|Introducción | [Introducción 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_00_introduccion_v1.ipynb){: .btn .btn-green }| |
-|Guia de entrega Tareas| [Github](https://docs.google.com/presentation/d/1-S9rPT4xcAzL3UvNJJh1y8t30k93kXqT/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+|Laboratorio | [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_02_v1.ipynb){: .btn .btn-green }| | -->
 
 
 
 <!-- 
+========================================================================================
+
+========================================================================================
+
+========================================================================================
+
+========================================================================================
 |Laboratorio | [Lab 1](){: .btn .btn-green }| |
 |Pandas B | [Mat 2](){: .btn .btn-blue }| |
 
