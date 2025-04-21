@@ -9,7 +9,7 @@ permalink: /
 
 # Aprendizaje estadístico 
 {: .fs-9 }
-
+adsfadsfadsfadfas
 Este es la web del curso de aprendizaje estadístico del instituto de física de la Universidad de Antioquia
 {: .fs-6 .fw-300 }
 
