@@ -7,17 +7,17 @@ nav_order: 3
 # Políticas del Curso
 
 ### Horarios de Clase
-- **Horario:** 6:30am - 8:00am
-  - **Martes:** Hernan
-  - **Jueves:** Olga
-- **Aula:** 6-125
+- **Horario:** 10:00am - 12:00am
+  - **Martes:** Hernan David Salinas Jimenez
+  - **Jueves:** Olga Lucia Lopez
+- **Aula:** 5-104
 
 ### Horarios de Atención
-- **Olga:** Jueves 8:15am - 9:00am
-- **Hernan:** Lunes (horario por confirmar)
+- **Olga:** Miércoles (Horario por confirmar)
+- **Hernan:** Miércoles (Horario por confirmar)
 
 ### Uso de Computadores
-- Se sugiere que los estudiantes traigan su propio computador para las clases y laboratorios.
+- Se sugiere que algunos estudiantes traigan su propio computador para las clases y laboratorios, 
 
 ### Publicación de Notebooks
 - Los notebooks para la clase del martes se publicarán el lunes anterior.
