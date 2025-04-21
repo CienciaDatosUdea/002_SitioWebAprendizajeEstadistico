@@ -6,7 +6,7 @@ description: "Este es la web del curso de aprendizaje estadístico.
 Universidad de Antioquia"
 permalink: /
 ---
-asdfasdfadf
+
 # Aprendizaje estadístico 
 {: .fs-9 }
 
