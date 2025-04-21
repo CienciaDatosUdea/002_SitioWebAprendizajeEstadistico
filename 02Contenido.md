@@ -5,8 +5,6 @@ nav_order: 2
 
 ---
 
-Prueba 
-
 <!-- # Configuration
 
 
@@ -26,126 +24,29 @@ logo: "/assets/images/just-the-docs.png"
 ``` -->
 
 
-# Objetivo General del Curso
-
-Al finalizar el curso, el estudiante debe ser capaz de comprender, describir, analizar, diseñar, planificar, utilizar y aplicar los conceptos de aprendizaje supervisado, no supervisado, aprendizaje por refuerzo y aprendizaje profundo en la solución de problemas con pequeños y grandes volúmenes de datos en diferentes campos del saber. Todo ello para promover una formación integral y el desarrollo de habilidades críticas, comunicativas, colaborativas e innovadoras.
-
-## Objetivos Específicos
-
-Al final del curso, el estudiante estará en capacidad de:
-- Explicar y analizar los fundamentos teóricos de los diferentes modelos asociados a las técnicas de aprendizaje (supervisado, no supervisado, aprendizaje por refuerzo, aprendizaje profundo).
-- Diseñar modelos básicos (desde cero) para técnicas de aprendizaje e implementar modelos complejos con librerías existentes (TensorFlow, Scikit-learn, Keras, PyTorch, etc.) para resolver problemas con datos de diversas áreas como biología, química, ciencias sociales, física, economía, etc.
-- Diferenciar entre modelos de clasificación y predicción.
-- Emplear técnicas de minimización para optimizar modelos.
-- Identificar el sesgo y la varianza en los datos, y analizar cómo afectan y cómo se puede mejorar un modelo.
-- Realizar exploración de datos para identificar patrones y plantear hipótesis que puedan ser rechazadas o aceptadas.
-- Evaluar las métricas de los modelos y el impacto del procesamiento de los datos.
-- Crear y presentar visualizaciones de los datos: preprocesamiento y resultados de un modelo.
-- Construir pipelines de preprocesamiento de datos y entrenamiento de modelos con Python y Airflow para automatizar un modelo.
-- Utilizar herramientas tecnológicas de colaboración en línea (GitHub, Slack, etc.) para apoyar el trabajo en equipo.
-- Buscar literatura y medios audiovisuales especializados usando herramientas contemporáneas.
-- Aplicar ingeniería de prompts en modelos generativos.
-- Entender las operaciones MapReduce en el trabajo con grandes volúmenes de datos.
-- Implementar modelos básicos en grandes volúmenes de datos.
 
 
-# Unidades y Contenido por Unidad
+# Objetivos del curso:
+
+Al terminar el curso el curso el estudiante debe estar en la capacidad de comprender, describir, analizar,  utilizar  los conceptos de  causalidad,  muestreo, prueba de hipótesis, Inferencia, predicción,  a través del diseño y planificación de algorítmicos fundamentales, para dar solución a problemas con datos reales en diferentes campos del saber,  promoviendo una formación integral y de desarrollo de habilidades críticas, comunicativas, colaborativas e innovadoras en el estudiante.
 
 
-## 1. Introducción a la Ciencia de Datos
-- Presentación del curso
-- Repaso de pandas
-- Transformación de datos con pandas
-- Ejemplo de extracción y carga de datos
-- Operaciones Map, Filter, Reduce
-- Diseño de prompts
-  - Chat GPT, Bing
+## Objetivos especificos:
 
-## 2. Modelos de Caja Negra
-- Modelos de clasificación y predicción derivados de los datos
-- Concepto de estimador y características
-- Varianza, Bias, curvas de aprendizaje
-- Diseño de prompts
-  - Chat GPT, Bing
+ 
+- Aplicar los fundamentos de programación y manipulación de datos: Usar tipos de datos, estructuras, funciones, tablas y algoritmos para resolver problemas, realizar operaciones complejas y crear visualizaciones que permitan responder preguntas de ciencia de datos.
 
-## 3. Deducciones e Implementación de Modelos
-- Gradiente descendente y algoritmos de minimización
-- Regresión lineal y multivariada
-- Técnicas de regularización, Sesgo Varianza
-- Regresión Logística
-- Métricas para evaluar modelos
-- Redes Neuronales: Perceptrón desde cero
-- Introducción a Keras
-- Máquinas de soporte vectorial
-- Árboles de decisión
-- Random Forest
-- Métodos de Boosting
-- Métodos de clustering
-- Procesos gaussianos y modelos probabilísticos
+- Comprender y aplicar conceptos estadísticos y de inferencia: Realizar análisis de muestras aleatorias, comparar distribuciones, calcular correlaciones, aplicar regresión lineal y entrenar clasificadores, comprendiendo los principios de sesgo, varianza e intervalos de confianza.
 
-## 4. Elementos Básicos de MLOps
-- Introducción a la construcción de pipelines
-- Despliegue y construcción de API
-
-## 5. Introducción a las Redes Neuronales
-- Arquitecturas básicas de redes neuronales
-- Concepto de Batch, mini Batch, gradiente descendente estocástico, etc.
-- Redes Neuronales Artificiales con Keras y TensorFlow
-- Análisis de Componentes Principales (PCA)
-- Análisis de Discriminante Lineal (LDA)
-- Physics Informed
-
-## 6. Introducción a los Modelos Generativos, Ética y Funcionamiento
-- Tokenización, Embedding, Modelos Generativos: Transformer
-- Ética de los Modelos Generativos
+- Desarrollar habilidades en modelado y análisis de datos: Explorar patrones en los datos, formular hipótesis, aplicar pruebas A/B, usar técnicas de remuestreo y entender los conceptos clave del aprendizaje automático, como la clasificación y predicción.
 
 
+## Contenido del curso:
 
-# Metodología:
-
-El curso se desarrollará de manera teórico-práctica. En la primera sesión de cada semana, de dos horas, el profesor expondrá los conceptos matemáticos y algorítmicos utilizando herramientas tecnológicas, fomentando la participación activa del estudiante mediante actividades y/o laboratorios.
-
-La segunda sesión semanal, también de dos horas, será un laboratorio enfocado en afianzar los conceptos vistos en clase y resolver problemas de diversa índole: ideales, prácticos y multidisciplinarios. Se promoverá tanto el trabajo individual como el colaborativo. Herramientas como modelos generativos y GitHub serán clave para mejorar la productividad en clase. Finalmente, el estudiante desarrollará un proyecto colaborativo que abordará un problema real, ya sea industrial, académico o de investigación.
-
-### Medios y recursos didácticos:
-- Laboratorios en Jupyter
-- Simulaciones
-- Internet
-- Github
-
-
-### Formas de interacción y acompañamiento del trabajo independiente:
-Para el desarrollo de las sesiones y laboratorios, será indispensable el uso de una sala de computadores. Durante los laboratorios, el docente guiará a los estudiantes en discusiones que fomenten el pensamiento crítico y la comprensión profunda de los conceptos, formulando preguntas que promuevan la reflexión.
-
-### Tipos de problemas y datasets trabajados en clase:
-- Datasets de imágenes espectrales
-- Datasets de series temporales de clima
-- Datasets de series de tiempo experimentales en física de partículas
-- Datasets de estructuras atómicas
-- Datasets para clasificar imágenes en astronomía
-- Datasets de biología: secuencias genómicas
-- Datasets de imágenes médicas
-- Datasets de experimentos físicos para aplicar Physics Informed
-
-
-# Evaluación.
-
-La evaluación está diseñada para fomentar en el estudiante el cuestionamiento continuo y retroalimentación rápida. El objetivo de las actividades de clase es poner en práctica lo comunicado por el profesor y los elementos básicos de la teoría, adicionalmente preguntas asociadas a las actividades también serán diseñadas para propiciar la investigación en el aula de clase. Por otro lado, el laboratorio busca la práctica de lo estudiado y comprendido en clase con material autocontenido para generar retroalimentación automática. 
-
-
-
-# Momentos de evaluación
-
-
-| **Momentos de Evaluación**    | **Porcentajes**                  |
-|-------------------------------|----------------------------------|
-| Laboratorios: Semana a Semana  | 60%                             |
-| Proyecto Final: Desarrollo en los últimos dos meses| 40%              |
-
-
-| **Proyecto Final**                     | **Porcentajes** |
-|----------------------------------------|-----------------|
-| Desarrollo en los últimos dos meses    | 40%             |
-| - Notebook                             | 20%             |
-| - Exposición                           | 10%             |
-| - Trabajo escrito, análisis, presentación de resultados etc                   | 10%             |
+| Módulo | Descripción                                                                                                       | Temas                                |
+|--------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| 1      | **Módulo 1: Introducción a la ciencia de datos** En este módulo se da una breve introducción a los fundamentos de la ciencia y el análisis de datos a partir de los conceptos de experimento y causalidad. | 1. Introducción a la ciencia de datos 2. Causalidad y experimento |
+| 2      | **Módulo 2: Fundamentos de programación y ciencia de datos** En este módulo se enseñan los conceptos básicos de la programación en Python como: expresiones, variables, funciones, estructuras de control y listas. Se introduce el uso de tablas para organizar datos, y cómo realizar operaciones complejas como filtrado y agrupamiento. Además, se exploran visualizaciones para comunicar datos. | 3. Programación en Python 4. Tipos de datos 5. Secuencias 6. Tablas 7. Visualización 8. Funciones y tablas |
+| 3      | **Módulo 3: Estadística, muestreo y prueba de hipótesis** Este módulo enfatiza los conceptos de aleatoriedad, el uso de muestreo para generar datos de una población, y la inferencia de propiedades poblacionales. Se introduce el concepto de prueba de hipótesis. | 9. Aleatoriedad 10. Muestreo y distribuciones muestrales 11. Pruebas de hipótesis |
+| 4      | **Módulo 4: Comparación de distribuciones** Se introducen los intervalos de confianza para expresar la incertidumbre de las estimaciones. | 12. Comparación de dos muestras 13. Estimación 14. Importancia de la media |
+| 5      | **Módulo 5: Inferencia, predicción y modelos** Este módulo presenta el concepto de correlación y regresión para modelar y predecir variables. Se cubre el entrenamiento y pruebas, además de la técnica de agrupamiento k-means para identificar grupos de elementos similares. | 15. Predicción 16. Inferencia y regresión 17. Clasificación 18. Actualización de la predicción |
