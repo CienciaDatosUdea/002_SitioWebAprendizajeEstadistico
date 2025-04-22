@@ -21,7 +21,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 
 
-adsfasdf
+
 
 | Introducción|  | |
 |--------|-----------|
