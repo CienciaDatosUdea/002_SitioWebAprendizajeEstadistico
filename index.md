@@ -35,6 +35,10 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
 |Pandas B | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_01b_pandas_V2.ipynb){: .btn .btn-green }| |
+|Pandas C | [Pres 3](https://docs.google.com/presentation/d/138enisfLjph5p-O-VZ36k4xZzjl4OpiRDipZIPDBbrw/edit?usp=sharing){: .btn .btn-green }| |
+|Presentacion | [Mat 3](){: .btn .btn-green }| |
+
+
 
 <!-- 
 | Python I: Funciones y pandas|  | |
