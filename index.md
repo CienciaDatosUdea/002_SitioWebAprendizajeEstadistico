@@ -35,8 +35,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
 |Pandas B | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_01b_pandas_V2.ipynb){: .btn .btn-green }| |
-|Pandas C | [Mat 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_01c_PruebasH_V2.ipynb){: .btn .btn-green }| |
-|Presentacion | [Presentación 3](https://docs.google.com/presentation/d/138enisfLjph5p-O-VZ36k4xZzjl4OpiRDipZIPDBbrw/edit?usp=sharing){: .btn .btn-green }| |
+|Pandas C: Pruebas Hipotesis | [Mat 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_01c_PruebasH_V2.ipynb){: .btn .btn-green }| |
+|Presentacion | [Presentación](https://docs.google.com/presentation/d/138enisfLjph5p-O-VZ36k4xZzjl4OpiRDipZIPDBbrw/edit?usp=sharing){: .btn .btn-green }| |
+|Tarea 1| [Tarea 1:Penguins](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Laboratorios/Tarea_00_penguins.ipynb){: .btn .btn-green }| |
 
 
 
