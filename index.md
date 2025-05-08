@@ -41,6 +41,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 
 
+| Introducción machine learning|  | |
+|--------|-----------|
+|1D   | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_02_intuicion_estadistica_v1.ipynb){: .btn .btn-green }| |
+
+
 <!-- 
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
