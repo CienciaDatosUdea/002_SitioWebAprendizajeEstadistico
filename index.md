@@ -47,7 +47,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |2D   | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_03_intuicion_estadistica_II_v1.ipynb){: .btn .btn-green }| |
 |Presentacion | [Presentación](https://docs.google.com/presentation/d/1IgcKInOO0walhXs8j4ir5o8fYqvxpKzsYbHe6Tfz1UI/edit?usp=sharing){: .btn .btn-green }| |
 
-
+| Regresión lineal|  | |
+|--------|-----------|
+|1D   | [Lab 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Laboratorios/Laboratorio_03_reg_lin_grad_descV1.ipynb){: .btn .btn-green }| |
 
 <!-- 
 | Python I: Funciones y pandas|  | |
