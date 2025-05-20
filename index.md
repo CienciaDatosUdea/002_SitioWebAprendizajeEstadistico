@@ -51,6 +51,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |1D   | [Lab 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Laboratorios/Laboratorio_03_reg_lin_grad_descV1.ipynb){: .btn .btn-green }| |
 
+|Multivariada   | [Lab 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Laboratorios/Laboratorio_04_reg_multivariada.ipynb){: .btn .btn-green }| |
+
+
 <!-- 
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
