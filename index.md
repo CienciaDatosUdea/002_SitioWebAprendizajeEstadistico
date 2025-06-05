@@ -7,6 +7,9 @@ Universidad de Antioquia"
 permalink: /
 ---
 
+
+
+
 # Aprendizaje estadístico 
 {: .fs-9 }
 
@@ -56,6 +59,10 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 |Laboratorio ABC  | [Lab 5](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Laboratorios/Laboratorio_05_ABC_Modelo_v1.ipynb){: .btn .btn-green }| |
 
+
+
+|NN  | [Mat 7](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Laboratorios/Sesion_09_neuronal_networkV1.ipynb){: .btn .btn-green }| |
+|NN  | [Lab 7](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Laboratorios/Laboratorio_07_nn_zeroV1.ipynb){: .btn .btn-green }| |
 
 
 <!-- 
