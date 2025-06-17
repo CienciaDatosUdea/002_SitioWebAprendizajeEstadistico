@@ -68,6 +68,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Laboratorio Keras  | [Lab 8](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Laboratorios/Laboratorio_08_nn_keras__V1.ipynb){: .btn .btn-green }| |
 
 
+
+|Sensibilidad y Especificidad | [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_10_EspecificidadSensibilidadROC_v1.ipynb){: .btn .btn-green }| |
+
 <!-- 
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
