@@ -71,6 +71,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 |Sensibilidad y Especificidad | [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_10_EspecificidadSensibilidadROC_v1.ipynb){: .btn .btn-green }| |
 
+| Support Vector Machine |  | |
+|--------|-----------|
+|Laboratorio  y teoria| [Mat-Lab 11](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_11_SVM_v2.ipynb){: .btn .btn-green }| |
+
+
 <!-- 
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
