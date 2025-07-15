@@ -76,6 +76,13 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Laboratorio  y teoria| [Mat-Lab 11](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_11_SVM_v2.ipynb){: .btn .btn-green }| |
 
 
+|Decision tree|  | |
+|Decision tree: Presentacion| [Mat](https://docs.google.com/presentation/d/1uVz0-uUYrvXL-FaJeMEwERZlbNW853QL/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+|Decision tree: Notebook| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_12_Desicion_Tree_V1.ipynb){: .btn .btn-green }| |
+|Bootstraping| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_13_Bootstraping_v1.ipynb){: .btn .btn-green }| |
+|Random Forest| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_14_RandomForest_v1.ipynb){: .btn .btn-green }| |
+
+
 <!-- 
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
@@ -97,11 +104,6 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Presentacion| [Pres](https://docs.google.com/presentation/d/10R3MIPD52fmRY-hgD3DsIlBHRLmM3QAuA-3_vRqrlsg/edit?usp=drive_link){: .btn .btn-green }| |
 |Lista| [Lista](https://docs.google.com/spreadsheets/d/1Cjjin1-xvdsMyQUCmoZAnXW8vg_5oJNogGCOrP_zDQ4/edit?usp=sharing){: .btn .btn-green }| |
 
-|Decision tree|  | |
-|Decision tree: Presentacion| [Mat](https://docs.google.com/presentation/d/1uVz0-uUYrvXL-FaJeMEwERZlbNW853QL/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
-|Decision tree: Notebook| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_12_Desicion_Tree_V1.ipynb){: .btn .btn-green }| |
-|Bootstraping| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_13_Bootstraping_v1.ipynb){: .btn .btn-green }| |
-|Random Forest| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_14_RandomForest_v1.ipynb){: .btn .btn-green }| |
 
 | Support Vector Machine |  | |
 |--------|-----------|
