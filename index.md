@@ -82,6 +82,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Bootstraping| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_13_Bootstraping_v1.ipynb){: .btn .btn-green }| |
 |Random Forest| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_14_RandomForest_v1.ipynb){: .btn .btn-green }| |
 
+|Reduccion de dimensionalidad|  | |
+|Permutation test and PCA: Notebook| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_16_Reduccion_Dimensionalidad_PCA_Perm_IV.ipynb){: .btn .btn-green }| |
+
 
 <!-- 
 | Python I: Funciones y pandas|  | |
