@@ -25,10 +25,20 @@ nav_order: 3
 
 ### Evaluación
 - **60%** Laboratorios
+
 - **40%** Proyecto Final
-  - 20% Códigos
+  - 10% Códigos
   - 10% Informe
   - 10% Exposición
+  - 10% Anteproyecto: Fase 0 y 1
+
+
+Tres fases: 
+- Fase 0: Anteproyecto: ¿Que van hacer? 
+
+- Fase 1: Análisis de los datos: Limpieza, estadística descriptiva, pruebas de hipotesis, visualización, 
+
+- Fase 2:   Desarrollo Completo
 
 ### Entregas
 - Las entregas de los laboratorios deben realizarse a través de GitHub, 8 días después de ser asignados.
