@@ -46,10 +46,10 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Pandas C: Pruebas Hipotesis | [Mat 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_01c_PruebasH_V2.ipynb){: .btn .btn-green }| |
 |Presentacion | [Presentación](https://docs.google.com/presentation/d/138enisfLjph5p-O-VZ36k4xZzjl4OpiRDipZIPDBbrw/edit?usp=sharing){: .btn .btn-green }| |
 
+|Pandas D: Series de Tiempo | [Mat 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_01d_Series_tiempo.ipynb){: .btn .btn-green }| |
 
-<!-- 
-|Laboratorio | [Lab 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_01_pandas_v1.ipynb){: .btn .btn-green }| |
- -->
+|Laboratorio | [Lab 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_01_pandas_v2.ipynb){: .btn .btn-green }| |
+
 
 <!-- 
 | Introducción machine learning|  | |
