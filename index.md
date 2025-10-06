@@ -57,11 +57,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |1D   | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_02_intuicion_estadistica_v1.ipynb){: .btn .btn-green }| |
 
 
-<!-- 
-|2D   | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_03_intuicion_estadistica_II_v1.ipynb){: .btn .btn-green }| |
+
+|2D   | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_03_intuicion_estadistica_II_v1.ipynb){: .btn .btn-green }| |
 |Presentacion | [Presentación](https://docs.google.com/presentation/d/1IgcKInOO0walhXs8j4ir5o8fYqvxpKzsYbHe6Tfz1UI/edit?usp=sharing){: .btn .btn-green }| |
 
-
+<!-- 
 
 | Regresión lineal|  | |
 |--------|-----------|
