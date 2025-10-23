@@ -71,9 +71,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 | Punto de vista probabilista | [Mat 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_06_regresion_multivariada_normal_equation_v1.ipynb){: .btn .btn-green }| |
 
-|Laboratorio 05 Ecuacion normal  | [Lab 5](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_05_NormalEquations.ipynb.ipynb){: .btn .btn-green }| |
+|Laboratorio 05 Ecuacion normal  | [Lab 5](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_05_NormalEquations.ipynb){: .btn .btn-green }| |
 
-|Laboratorio ABC  | [Lab 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_06_ABC_Modelo_v1.ipynb){: .btn .btn-green }| |
+|Laboratorio ABC  | [Lab 5ABC](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_05_ABC_Modelo_v1.ipynb){: .btn .btn-green }| |
 
 <!-- 
 
