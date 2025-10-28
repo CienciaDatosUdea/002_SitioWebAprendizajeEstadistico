@@ -75,9 +75,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 |Laboratorio ABC  | [Lab 5ABC](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_05_ABC_Modelo_v1.ipynb){: .btn .btn-green }| |
 
-| Regresión logistica |  | |
+| Clasificación logistica |  | |
 |--------|-----------|
-|Laboratorio  y teoria| [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_06_RegresionLogistica.ipynb){: .btn .btn-green }| |
+|Laboratorio  y teoria|[Lab 6]https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_06_RegresionLogistica.ipynb){: .btn .btn-green }| |
 
 
 <!-- 
