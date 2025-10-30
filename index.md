@@ -79,6 +79,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |Laboratorio  y teoria|[Lab 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_06_ClasificacionLogistica.ipynb){: .btn .btn-green }| |
 
+|Sensibilidad y Especificidad | [Mat 6b](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_10_EspecificidadSensibilidadROC_v2.ipynb){: .btn .btn-green }| |
 
 <!-- 
 
@@ -91,7 +92,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 
 
-|Sensibilidad y Especificidad | [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_10_EspecificidadSensibilidadROC_v1.ipynb){: .btn .btn-green }| |
+
 
 | Support Vector Machine |  | |
 |--------|-----------|
