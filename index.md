@@ -81,12 +81,14 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 |Sensibilidad y Especificidad | [Mat 6b](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_10_EspecificidadSensibilidadROC_v2.ipynb){: .btn .btn-green }| |
 
-<!-- 
-
 | Red neuronal|  | |
 |--------|-----------|
 |NN  | [Mat 7](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Laboratorios/Sesion_09_neuronal_networkV1.ipynb){: .btn .btn-green }| |
 |NN  | [Lab 7](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Laboratorios/Laboratorio_07_nn_zeroV1.ipynb){: .btn .btn-green }| |
+
+
+<!-- 
+
 
 |Laboratorio Keras  | [Lab 8](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Laboratorios/Laboratorio_08_nn_keras__V1.ipynb){: .btn .btn-green }| |
 
