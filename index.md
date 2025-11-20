@@ -87,6 +87,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Lab  | [Lab 7](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_07_nn_zeroV1.ipynb){: .btn .btn-green }| |
 |Hint | [Lab 7](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_07_nn_zeroV1_sol.ipynb){: .btn .btn-green }| |
 
+
+
+
 |Laboratorio Keras  | [Lab 8](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_08_nn_keras__V1.ipynb){: .btn .btn-green }| |
 
 
