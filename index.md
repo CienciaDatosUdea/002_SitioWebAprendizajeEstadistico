@@ -89,8 +89,19 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 
 
-
 |Laboratorio Keras  | [Lab 8](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_08_nn_keras__V1.ipynb){: .btn .btn-green }| |
+
+
+|Decision tree|  | |
+|Decision tree: Presentacion| [Mat](https://docs.google.com/presentation/d/1uVz0-uUYrvXL-FaJeMEwERZlbNW853QL/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+|Decision tree: Notebook| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_12_Desicion_Tree_V1.ipynb){: .btn .btn-green }| |
+|Bootstraping| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_13_Bootstraping_v1.ipynb){: .btn .btn-green }| |
+|Random Forest| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_14_RandomForest_v1.ipynb){: .btn .btn-green }| |
+
+|Decision tree: Notebook| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_09_Desicion_Tree.ipynb){: .btn .btn-green }| |
+|Random Forest| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_12_RandomForest.ipynb){: .btn .btn-green }| |
+
+
 
 
 
@@ -103,12 +114,12 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |Laboratorio  y teoria| [Mat-Lab 11](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_11_SVM_v2.ipynb){: .btn .btn-green }| |
 
-
 |Decision tree|  | |
 |Decision tree: Presentacion| [Mat](https://docs.google.com/presentation/d/1uVz0-uUYrvXL-FaJeMEwERZlbNW853QL/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
 |Decision tree: Notebook| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_12_Desicion_Tree_V1.ipynb){: .btn .btn-green }| |
 |Bootstraping| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_13_Bootstraping_v1.ipynb){: .btn .btn-green }| |
 |Random Forest| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_14_RandomForest_v1.ipynb){: .btn .btn-green }| |
+
  -->
 
 <!-- 
