@@ -108,6 +108,10 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |Laboratorio  y teoria| [Mat-Lab 11](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_11_SVM_v2.ipynb){: .btn .btn-green }| |
 
+| Unsupervised Learning |  | |
+|--------|-----------|
+|Sesion| [Mat18](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_18_Unsupervised_Learning.ipynb){: .btn .btn-green }| |
+
 <!-- 
 
 
