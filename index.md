@@ -112,6 +112,14 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |Sesion| [Mat18](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_18_Unsupervised_Learning.ipynb){: .btn .btn-green }| |
 
+
+
+| Red neuronal convolucional |  | |
+|--------|-----------|
+|Material   | [Mat ](https://docs.google.com/presentation/d/1GWOrA7XkEqQy4n6O9Mho9UEifAWt3q-f/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+|Laboratorio   | [Lab ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_redes_neuronales_convolucionales.ipynb){: .btn .btn-green }| |
+
+
 <!-- 
 
 
@@ -231,11 +239,6 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 
 
-| Red neuronal convolucional |  | |
-|--------|-----------|
-|Laboratorio   | [Mat ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Sesiones/Sesion_17_convolution_nn.ipynb){: .btn .btn-green }| |
-|material   | [Mat ](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/presentaciones/Sesion_17_convolutionalNetwork.pptx){: .btn .btn-green }| |
-|Laboratorio   | [Lab ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_redes_neuronales_convolucionales.ipynb){: .btn .btn-green }| |
 
 
 | API |  | |
