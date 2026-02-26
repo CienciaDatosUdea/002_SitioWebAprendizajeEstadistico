@@ -38,7 +38,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
 |         | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_01b_pandas_v2.ipynb){: .btn .btn-green }| |
 
-|Pandas B| [Estadistica Descriptica] (https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02a_repaso_estadistica.ipynb){: .btn .btn-green }| |
+|Pandas B| [Estadistica Descriptica](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02a_repaso_estadistica.ipynb){: .btn .btn-green }| |
 
 |Lab 1| [Lab 1:Penguins](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Tarea_00_penguins.ipynb){: .btn .btn-green }| |
 
