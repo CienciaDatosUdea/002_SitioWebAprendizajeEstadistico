@@ -35,8 +35,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
 |Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
-|         | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_01b_pandas_v2.ipynb){: .btn .btn-green }| |
-|Pandas B| [Estadistica Descriptica](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02a_repaso_estadistica.ipynb){: .btn .btn-green }| |
+|Pandas B | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_01b_pandas_v2.ipynb){: .btn .btn-green }| |
+|Estadistica B| [Estadistica Descriptica](https://docs.google.com/presentation/d/1g1xfvquOgl6cwAjU8T_za6v5ZF6C5uWX/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+|Presentacion | [Estadistica](){: .btn .btn-green }| |
 |Lab 1| [Lab 1:Penguins](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_01_pinguinos_v2.ipynb){: .btn .btn-green }| |
 
 
