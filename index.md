@@ -39,7 +39,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Presentacion B| [Estadistica Descriptica](https://docs.google.com/presentation/d/1g1xfvquOgl6cwAjU8T_za6v5ZF6C5uWX/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
 |Notebook | [Estadistica](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02a_repaso_estadistica.ipynb){: .btn .btn-green }| |
 |Lab 1| [Lab 1:Penguins](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_01_pinguinos_v2_IA.ipynb){: .btn .btn-green }| |
-
+|Pandas C: Pruebas Hipotesis | [Mat 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02b_overfitting_underfitting_bootstrap.ipynb){: .btn .btn-green }| |
+|         | [Mat 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02c_pruebasH_v2.ipynb){: .btn .btn-green }| |
+|Pandas D: Series de Tiempo | [Mat 5](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02d_series_tiempo.ipynb){: .btn .btn-green }| |
+|Laboratorio | [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_02_pandas_v3.ipynb){: .btn .btn-green }| |
+|Presentacion | [Presentación](https://docs.google.com/presentation/d/1WNLk56b7lh1WULlHKbio1hzCXDo2ilE4nWaQPcjznxQ/edit?usp=sharing){: .btn .btn-green }| |
 
 <!-- 
 
