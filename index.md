@@ -38,19 +38,16 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |         | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_01b_pandas_v2.ipynb){: .btn .btn-green }| |
 |Pandas B| [Estadistica Descriptica](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02a_repaso_estadistica.ipynb){: .btn .btn-green }| |
 |Lab 1| [Lab 1:Penguins](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Tarea_00_penguins.ipynb){: .btn .btn-green }| |
-
-
+|Pandas C: Pruebas Hipotesis | [Mat 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02b_overfitting_underfitting_bootstrap.ipynb){: .btn .btn-green }| |
+|         | [Mat 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02c_pruebasH_v2.ipynb){: .btn .btn-green }| |
+|Pandas D: Series de Tiempo | [Mat 5](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02d_series_tiempo.ipynb){: .btn .btn-green }| |
+|Laboratorio | [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_02_pandas_v3.ipynb){: .btn .btn-green }| |
+|Presentacion | [Presentación](https://docs.google.com/presentation/d/1WNLk56b7lh1WULlHKbio1hzCXDo2ilE4nWaQPcjznxQ/edit?usp=sharing){: .btn .btn-green }| |
 <!-- 
 
 
 
 
-|Pandas C: Pruebas Hipotesis | [Mat 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_01c_PruebasH_V2.ipynb){: .btn .btn-green }| |
-|Presentacion | [Presentación](https://docs.google.com/presentation/d/138enisfLjph5p-O-VZ36k4xZzjl4OpiRDipZIPDBbrw/edit?usp=sharing){: .btn .btn-green }| |
-
-|Pandas D: Series de Tiempo | [Mat 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_01d_Series_tiempo.ipynb){: .btn .btn-green }| |
-
-|Laboratorio | [Lab 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_01_pandas_v2.ipynb){: .btn .btn-green }| |
 
 
 
