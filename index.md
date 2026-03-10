@@ -45,17 +45,20 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Laboratorio | [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_02_pandas_v3.ipynb){: .btn .btn-green }| |
 |Presentacion | [Presentación](https://docs.google.com/presentation/d/1WNLk56b7lh1WULlHKbio1hzCXDo2ilE4nWaQPcjznxQ/edit?usp=sharing){: .btn .btn-green }| |
 
-<!-- 
-
-
-
-
 
 
 
 | Introducción machine learning|  | |
 |--------|-----------|
-|1D   | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_02_intuicion_estadistica_v1.ipynb){: .btn .btn-green }| |
+|PCA   | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02e_reduccion_dim.ipynb){: .btn .btn-green }| |
+|1D   | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_03_intuicion_estadistica_I_v1.ipynb){: .btn .btn-green }| |
+
+
+<!-- 
+
+
+
+
 
 
 
