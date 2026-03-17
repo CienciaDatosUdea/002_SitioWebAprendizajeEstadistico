@@ -56,6 +56,13 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Laboratorio   | [Lab 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_03_intuicion_estadistica_v2.ipynb){: .btn .btn-green }| |
 |Presentacion | [Presentación](https://docs.google.com/presentation/d/1IgcKInOO0walhXs8j4ir5o8fYqvxpKzsYbHe6Tfz1UI/edit?usp=sharing){: .btn .btn-green }| |
 
+
+
+| Regresión lineal|  | |
+|--------|-----------|
+|1D   | [Lab 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_04_reg_lin_grad_desc_v2.ipynb){: .btn .btn-green }| |
+|Presentacion | [Presentación](https://docs.google.com/presentation/d/1ZOsK3g4i5HPwmJcv9Sx2vr7dvDdnG5rWxbbuJ-pofCA/edit?usp=sharing){: .btn .btn-green }| |
+
 <!-- 
 
 
