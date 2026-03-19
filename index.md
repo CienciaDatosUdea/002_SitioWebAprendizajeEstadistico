@@ -63,6 +63,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |1D   | [Lab 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_04_reg_lin_grad_desc_v2.ipynb){: .btn .btn-green }| |
 |Presentacion | [Presentación](https://docs.google.com/presentation/d/1ZOsK3g4i5HPwmJcv9Sx2vr7dvDdnG5rWxbbuJ-pofCA/edit?usp=sharing){: .btn .btn-green }| |
 
+|Multivariada   | [Lab 5](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_05_reg_multivariada_v2.ipynb){: .btn .btn-green }| |
+
+
 <!-- 
 
 
@@ -76,7 +79,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |1D   | [Lab 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_03_reg_lin_grad_descV1.ipynb){: .btn .btn-green }| |
 
-|Multivariada   | [Lab 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_04_reg_multivariada_v2.ipynb){: .btn .btn-green }| |
+
 
 
 | Punto de vista probabilista | [Mat 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_06_regresion_multivariada_normal_equation_v1.ipynb){: .btn .btn-green }| |
