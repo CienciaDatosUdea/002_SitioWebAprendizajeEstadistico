@@ -63,10 +63,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |1D   | [Lab 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_04_reg_lin_grad_desc_v2.ipynb){: .btn .btn-green }| |
 |Presentacion | [Presentación 1](https://docs.google.com/presentation/d/1ZOsK3g4i5HPwmJcv9Sx2vr7dvDdnG5rWxbbuJ-pofCA/edit?usp=sharing){: .btn .btn-green }| |
 |Multivariada   | [Lab 5](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_05_reg_multivariada_v2.ipynb){: .btn .btn-green }| |
-|Ecuacion normal   | [Lab 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_06_normal_equations.ipynb){: .btn .btn-green }| |
+|Ecuacion normal   | [Lab 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_06_normal_equations_v1.ipynb){: .btn .btn-green }| |
 |Presentacion | [Presentación 2]( https://docs.google.com/presentation/d/1uL1n-D1Sehv4lWIOT3mY9QYwFywSkqXhfUnj6sUgHxc/edit?usp=sharing){: .btn .btn-green }| |
-
-
+|Laboratorio ABC  | [Lab 7ABC](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_07_abc_modelo_v1.ipynb){: .btn .btn-green }| |
 
 
 <!-- 
