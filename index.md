@@ -70,7 +70,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 | Clasificación logistica |  | |
 |--------|-----------|
-|Laboratorio  y teoria|[Lab 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_08_ClasificacionLogistica.ipynb){: .btn .btn-green }| |
+|Laboratorio  y teoria|[Lab 8](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_08_clasificacionLogistica.ipynb){: .btn .btn-green }| |
 
 
 
