@@ -77,6 +77,23 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |Red Neuronal  | [Lab 9 ](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_09_nn_zeroV1.ipynb){: .btn .btn-green }| |
 
+| Aplicaciones Redes neuronales Biologia|  | |
+|--------|-----------|
+
+|Presentacion | [Presentación 1](https://docs.google.com/presentation/d/1A1bt5OBo7YuX_YoV4ORMC7DKHngJTi9D/edit?slide=id.p16#slide=id.p1){: .btn .btn-green }| |
+|Presentacion | [Presentación 2](https://docs.google.com/presentation/d/1aMxVvYJRQghqzJCXnw0vXT686iXuGzXc/edit?slide=id.p28#slide=id.p1){: .btn .btn-green }| |
+|Presentacion | [Presentación 3](https://docs.google.com/presentation/d/14JGC3XWpLIB23Ww6tjk_vm2C0EWST3xX/edit?slide=id.p23#slide=id.p23){: .btn .btn-green }| |
+
+
+
+
+
+
+|Red Neuronal  | [Mat 10a ](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Demostraciones/Case1_reference.ipynb){: .btn .btn-green }| |
+|Red Neuronal  | [Mat 10b ](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Demostraciones/Case2_DNABERT_Reference.ipynb){: .btn .btn-green }| |
+
+
+
 <!-- 
 
 
