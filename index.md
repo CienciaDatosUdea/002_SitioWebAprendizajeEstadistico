@@ -88,11 +88,21 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Laboratorio Keras  | [Lab 10](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_19_nn_keras__V1.ipynb){: .btn .btn-green }| |
 
 
-
 |Decision tree|  | |
 |Decision tree: Presentacion| [Mat](https://docs.google.com/presentation/d/1uVz0-uUYrvXL-FaJeMEwERZlbNW853QL/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
 |Decision tree: Notebook| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_11_desicion_tree.ipynb){: .btn .btn-green }| |
 |Random Forest| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_12_random_forest.ipynb){: .btn .btn-green }| |
+
+
+| Red neuronal convolucional |  | |
+|--------|-----------|
+|Material   | [Mat 1](https://docs.google.com/presentation/d/1GWOrA7XkEqQy4n6O9Mho9UEifAWt3q-f/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+|Sesión   1| [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_14_convolution_nn.ipynb){: .btn .btn-green }| |
+|Sesión   2| [Mat 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_15_convolution_nn2.ipynb){: .btn .btn-green }| |
+|Laboratorio   | [Lab ](){: .btn .btn-green }| |
+
+
+
 
 <!-- |Decision tree: Notebook| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_09_Desicion_Tree.ipynb){: .btn .btn-green }| |
 |Random Forest| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_12_RandomForest.ipynb){: .btn .btn-green }| | -->
