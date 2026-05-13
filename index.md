@@ -103,7 +103,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 | Unsupervised Learning |  | |
 |--------|-----------|
-|Sesion| [Mat1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_16_unsupervised_learning.ipynb){: .btn .btn-green }| |
+|Sesion| [Mat1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_16_unsupervised_learning.ipynb){: .btn .btn-green }| |
 
 
 <!-- |Decision tree: Notebook| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_09_Desicion_Tree.ipynb){: .btn .btn-green }| |
