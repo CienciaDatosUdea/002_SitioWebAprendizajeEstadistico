@@ -106,6 +106,13 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Sesion| [Mat1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_16_unsupervised_learning.ipynb){: .btn .btn-green }| |
 
 
+| Energy based model |  | |
+|--------|-----------|
+|Distribución de Boltzmann | [Mat1](https://docs.google.com/presentation/d/1n8AmyjrDCOxPD7nzvjZWwOfRZ-rLu0DrbDYHNDyCGZY/edit?usp=sharing
+){: .btn .btn-green }| |
+
+
+
 <!-- |Decision tree: Notebook| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_09_Desicion_Tree.ipynb){: .btn .btn-green }| |
 |Random Forest| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_12_RandomForest.ipynb){: .btn .btn-green }| | -->
 
