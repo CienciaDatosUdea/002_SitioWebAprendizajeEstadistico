@@ -110,6 +110,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |Distribución de Boltzmann | [Mat1](https://docs.google.com/presentation/d/1n8AmyjrDCOxPD7nzvjZWwOfRZ-rLu0DrbDYHNDyCGZY/edit?usp=sharing
 ){: .btn .btn-green }| |
+|Redes de Hopfield  | [Lab1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_13_Hopfield.ipynb){: .btn .btn-green }| |
 
 
 
