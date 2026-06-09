@@ -114,6 +114,13 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 
 
+|Intro cpp |  | |
+|--------|-----------|
+|Historia cpp | [Mat1](
+){: .btn .btn-green }| |
+|Redes de Hopfield  | [Mat 1](https://docs.google.com/presentation/d/1PYiu14LCQk7kjJr171hNgd4r2Mvkt_rE/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+
+
 <!-- |Decision tree: Notebook| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_09_Desicion_Tree.ipynb){: .btn .btn-green }| |
 |Random Forest| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_12_RandomForest.ipynb){: .btn .btn-green }| | -->
 
