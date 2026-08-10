@@ -23,6 +23,7 @@ Este es la web del curso de aprendizaje estadístico del instituto de física de
 En las tablas se incluyen los link a los laboratorio, notas de clase y actividades a realizar durante el semestre
 
 
+<!--
 
 | Introducción|  | |
 |--------|-----------|
