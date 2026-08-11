@@ -28,8 +28,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Importancia de los datos | [Presentación](https://docs.google.com/presentation/d/1UQDQCdpKYTrb5rv5jxjzS_hNU9Tj1Kmd/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true){: .btn .btn-green }| |
 |Guia de entrega Tareas| [Github](https://docs.google.com/presentation/d/1Q-FrEThgGfT3Hm-auXHEico8EuLaLfGb/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true){: .btn .btn-green }| |
 |Introducción | [Introducción 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_00a_introduccion_v1.ipynb){: .btn .btn-green }| | 
-<!--
 
+<!--
 | Introducción|  | |
 |--------|-----------|
 |Programa del curso | [Programa 1](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Programa/ProgramaAE.pdf){: .btn .btn-green }| |
