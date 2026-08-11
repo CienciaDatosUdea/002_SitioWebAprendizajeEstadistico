@@ -25,6 +25,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 | Introducción|  | |
 |--------|-----------|
 |Programa del curso | [Programa](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Programa/Programa_FCII.pdf){: .btn .btn-green }| |
+|Importancia de los datos | [Presentación](https://docs.google.com/presentation/d/1SrqIeip_4TOwvEmoUX60Wo6pSO3ZwyeO/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
 
 <!--
 
