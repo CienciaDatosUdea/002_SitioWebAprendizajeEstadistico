@@ -332,4 +332,5 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 | Lab Final |  | |
 |Laboratorio   | [Laboratorio ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/LaboratorioFinal.ipynb){: .btn .btn-green }| |
- -->
+-->
+-->
