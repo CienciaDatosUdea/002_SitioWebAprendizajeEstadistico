@@ -29,7 +29,14 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Guia de entrega Tareas| [Github](https://docs.google.com/presentation/d/1Q-FrEThgGfT3Hm-auXHEico8EuLaLfGb/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true){: .btn .btn-green }| |
 |Introducción | [Introducción 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_00a_introduccion_v1.ipynb){: .btn .btn-green }| | 
 
+| Python I: Funciones y pandas|  | |
+|--------|-----------|
+|Introducción | [Introducción 2](https://docs.google.com/presentation/d/1mgWvBz-B-tcJvaqYRy5V18Xxgfsy81Rc/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true
+){: .btn .btn-green }| | 
+|Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
+
 <!--
+
 | Introducción|  | |
 |--------|-----------|
 |Programa del curso | [Programa 1](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Programa/ProgramaAE.pdf){: .btn .btn-green }| |
