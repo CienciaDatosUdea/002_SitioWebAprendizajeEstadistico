@@ -33,6 +33,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |Introducción | [Introducción 2](https://docs.google.com/presentation/d/1mgWvBz-B-tcJvaqYRy5V18Xxgfsy81Rc/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true){: .btn .btn-green }| | 
 |Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
+|Pandas B | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_01b_pandas_v2.ipynb){: .btn .btn-green }| |
+|Presentacion B| [Observacion, intro estadistica desc](https://docs.google.com/presentation/d/1g1xfvquOgl6cwAjU8T_za6v5ZF6C5uWX/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true){: .btn .btn-green }| |
 
 <!--
 https://docs.google.com/presentation/d/1g1xfvquOgl6cwAjU8T_za6v5ZF6C5uWX/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true
@@ -44,8 +46,7 @@ https://docs.google.com/presentation/d/1g1xfvquOgl6cwAjU8T_za6v5ZF6C5uWX/edit?us
 |Mlops | [Mlops 1](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/imagenes/Sesion_03_pandas.gif?raw=true){: .btn .btn-blue }| |
 |Guia de entrega Tareas| [Github](https://docs.google.com/presentation/d/1-S9rPT4xcAzL3UvNJJh1y8t30k93kXqT/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
 |Introducción | [Introducción 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_00a_introduccion_v1.ipynb){: .btn .btn-green }| | 
-|Pandas B | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_01b_pandas_v2.ipynb){: .btn .btn-green }| |
-|Presentacion B| [Observacion, intro estadistica desc](https://docs.google.com/presentation/d/1g1xfvquOgl6cwAjU8T_za6v5ZF6C5uWX/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true){: .btn .btn-green }| |
+
 
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
