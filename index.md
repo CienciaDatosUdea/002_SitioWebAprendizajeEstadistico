@@ -138,12 +138,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Redes de Hopfield  | [Mat 1](https://docs.google.com/presentation/d/1PYiu14LCQk7kjJr171hNgd4r2Mvkt_rE/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
 
 
-<!-- |Decision tree: Notebook| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_09_Desicion_Tree.ipynb){: .btn .btn-green }| |
-|Random Forest| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_12_RandomForest.ipynb){: .btn .btn-green }| | -->
+ |Decision tree: Notebook| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_09_Desicion_Tree.ipynb){: .btn .btn-green }| |
+|Random Forest| [Lab](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/Laboratorio_12_RandomForest.ipynb){: .btn .btn-green }| | 
 
-
-
-<!-- 
 
 
 
@@ -211,10 +208,6 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Sesión   1| [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_17_convolution_nn.ipynb){: .btn .btn-green }| |
 |Sesión   2| [Mat 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_17_convolution_nn2.ipynb){: .btn .btn-green }| |
 |Laboratorio   | [Lab ](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Laboratorios/.ipynb){: .btn .btn-green }| |
- -->
-
-
-<!-- 
 
 
 
@@ -227,22 +220,16 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Bootstraping| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_13_Bootstraping_v1.ipynb){: .btn .btn-green }| |
 |Random Forest| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-1/Sesiones/Sesion_14_RandomForest_v1.ipynb){: .btn .btn-green }| |
 
- -->
 
-<!-- 
+
+
 | Python I: Funciones y pandas|  | |
 |--------|-----------|
 |Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
 |Pandas B | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_01b_pandas_V1.ipynb){: .btn .btn-green }| |
-|Laboratorio | [Lab 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_01_pandas.ipynb){: .btn .btn-green }| | -->
+|Laboratorio | [Lab 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_01_pandas.ipynb){: .btn .btn-green }| |
 
 
-
-
-
-
-
-<!-- 
 |Reduccion de dimensionalidad|  | |
 |Permutation test and PCA: Notebook| [Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_16_Reduccion_Dimensionalidad_PCA_Perm_IV.ipynb){: .btn .btn-green }| |
 
@@ -289,11 +276,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |1D   | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_02_intuicion_estadistica_v1.ipynb){: .btn .btn-green }| |
 |2D   | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Sesiones/Sesion_03_intuicion_estadistica_II_v1.ipynb){: .btn .btn-green }| |
-|Laboratorio | [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_02_v1.ipynb){: .btn .btn-green }| | -->
+|Laboratorio | [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2024-2/Laboratorios/Laboratorio_02_v1.ipynb){: .btn .btn-green }| | 
 
 
 
-<!-- 
+
 ========================================================================================
 
 ========================================================================================
@@ -339,9 +326,6 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|
 |Laboratorio   | [Lab ](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/Laboratorio_13_Despliegue_de_Api.ipynb){: .btn .btn-green }| |
 |Material   | [API ](https://github.com/hernansalinas/Curso_aprendizaje_estadistico/tree/main/API){: .btn .btn-green }| |
-
-
 | Lab Final |  | |
-|Laboratorio   | [Laboratorio ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/LaboratorioFinal.ipynb){: .btn .btn-green }| |
--->
--->
+|Laboratorio   | [Laboratorio ](https://colab.research.google.com/github/hernansalinas/Curso_aprendizaje_estadistico/blob/main/Assesment/LaboratorioFinal.ipynb){: .btn .btn-green }| | -->
+
