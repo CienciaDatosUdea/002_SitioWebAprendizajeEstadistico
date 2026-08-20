@@ -35,9 +35,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Pandas A | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_01a_python_pandas_v1.ipynb){: .btn .btn-green }| |
 |Pandas B | [Mat 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_01b_pandas_v2.ipynb){: .btn .btn-green }| |
 |Presentacion B| [Observacion, intro estadistica desc](https://docs.google.com/presentation/d/1g1xfvquOgl6cwAjU8T_za6v5ZF6C5uWX/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true){: .btn .btn-green }| |
-
+|Lab 1| [Lab 1:Penguins](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_01_pinguinos_v2_IA.ipynb){: .btn .btn-green }| |
 <!--
-https://docs.google.com/presentation/d/1g1xfvquOgl6cwAjU8T_za6v5ZF6C5uWX/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true
 
 | Introducción|  | |
 |--------|-----------|
