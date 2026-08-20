@@ -46,6 +46,7 @@ https://docs.google.com/presentation/d/1g1xfvquOgl6cwAjU8T_za6v5ZF6C5uWX/edit?us
 |Mlops | [Mlops 1](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/imagenes/Sesion_03_pandas.gif?raw=true){: .btn .btn-blue }| |
 |Guia de entrega Tareas| [Github](https://docs.google.com/presentation/d/1-S9rPT4xcAzL3UvNJJh1y8t30k93kXqT/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
 |Introducción | [Introducción 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_00a_introduccion_v1.ipynb){: .btn .btn-green }| | 
+|Lab 1| [Lab 1:Penguins](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_01_pinguinos_v2_IA.ipynb){: .btn .btn-green }| |
 
 
 | Python I: Funciones y pandas|  | |
