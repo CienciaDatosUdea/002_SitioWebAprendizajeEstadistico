@@ -38,7 +38,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Lab 1| [Lab 1:Penguins](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_01_pinguinos_v2_IA.ipynb){: .btn .btn-green }| |
 |Introduccion Sobreajuste, Pruebas H, Series tiempo| [Presentación](https://docs.google.com/presentation/d/1WNLk56b7lh1WULlHKbio1hzCXDo2ilE4nWaQPcjznxQ/edit?usp=sharing){: .btn .btn-green }| |
 |Estadistica | [Mat 3](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_02a_repaso_estadistica.ipynb){: .btn .btn-green }| |
-|Sobreajuste | [Mat 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_02b_overfitting_underfitting_bootstrap.ipynb){: .btn .btn-green }| |
+|Sobreajuste | [Mat 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_02b_overfitting_underfitting_bootstrap_v2.ipynb){: .btn .btn-green }| |
 |Pruebas de Hipótesis | [Mat 5](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_02c_pruebasH_v2.ipynb){: .btn .btn-green }| |
 |Series de Tiempo | [Mat 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_02d_series_tiempo.ipynb){: .btn .btn-green }| |
 
