@@ -41,6 +41,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Sobreajuste | [Mat 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_02b_overfitting_underfitting_bootstrap_v2.ipynb){: .btn .btn-green }| |
 |Pruebas de Hipótesis | [Mat 5](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_02c_pruebasH_v2.ipynb){: .btn .btn-green }| |
 |Series de Tiempo | [Mat 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_02d_series_tiempo.ipynb){: .btn .btn-green }| |
+|Laboratorio | [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_02_pandas_v3.ipynb){: .btn .btn-green }| |
 
 <!--
 | Introducción|  | |
