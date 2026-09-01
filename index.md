@@ -43,6 +43,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Series de Tiempo | [Mat 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_02d_series_tiempo.ipynb){: .btn .btn-green }| |
 |Laboratorio | [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_02_pandas_v3.ipynb){: .btn .btn-green }| |
 
+| Introducción machine learning|  | |
+|--------|-----------|
+|Presentacion| [PCA](https://docs.google.com/presentation/d/1U6URPEDxw-7COnYu9psnNesmTRxQm_20AL0Qu0zACz8/edit?usp=sharing){: .btn .btn-green }| |
+|PCA   | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_02e_reduccion_dim.ipynb){: .btn .btn-green }| |
+
 <!--
 | Introducción|  | |
 |--------|-----------|
