@@ -44,7 +44,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Laboratorio | [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_02_pandas_v3.ipynb){: .btn .btn-green }| |
 
 | Introducción machine learning|  | |
-|--------|-----------|
+|--------|-----------|-----------|
 |Presentacion| [PCA](https://docs.google.com/presentation/d/1U6URPEDxw-7COnYu9psnNesmTRxQm_20AL0Qu0zACz8/edit?usp=sharing){: .btn .btn-green }| |
 |PCA   | [Mat 1](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_02e_reduccion_dim.ipynb){: .btn .btn-green }| |
 |Presentacion| [Intuicion estadistica](https://docs.google.com/presentation/d/1IgcKInOO0walhXs8j4ir5o8fYqvxpKzsYbHe6Tfz1UI/edit?usp=sharing){: .btn .btn-green }| |
