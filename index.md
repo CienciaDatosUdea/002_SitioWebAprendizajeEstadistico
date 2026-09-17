@@ -56,6 +56,8 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|-----------|
 |1D   | [Lab 4](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_04_reg_lin_grad_desc_v2.ipynb){: .btn .btn-green }| |
 |Regresion multivariada y Ecuacion normal| [Mat 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_06_normal_equation_v2.ipynb){: .btn .btn-green }| |
+|Presentacion| [Regularizacion](https://docs.google.com/presentation/d/1vVA1yCfnmAFl4NsY8NlTjdCRhp_Ik8lY/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true){: .btn .btn-green }| |
+
 
 <!--
 | Introducción|  | |
