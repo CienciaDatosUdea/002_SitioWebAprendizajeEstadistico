@@ -82,7 +82,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Pandas D: Series de Tiempo | [Mat 5](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Sesiones/Sesion_02d_series_tiempo.ipynb){: .btn .btn-green }| |
 |Laboratorio | [Lab 2](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-1/Laboratorios/Laboratorio_02_pandas_v3.ipynb){: .btn .btn-green }| |
 |Presentacion | [Presentación](https://docs.google.com/presentation/d/1WNLk56b7lh1WULlHKbio1hzCXDo2ilE4nWaQPcjznxQ/edit?usp=sharing){: .btn .btn-green }| |
-
+|Laboratorio ABC  | [Lab 7ABC](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_07_abc_modelo_v2.ipynb){: .btn .btn-green }| |
 
 
 
