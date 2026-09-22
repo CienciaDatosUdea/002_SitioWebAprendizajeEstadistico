@@ -61,7 +61,7 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 | Clasificación logistica|  | | 
 |--------|-----------|-----------|
-|Sesion|[Mat 7](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_08_clasificacionLogistica_v2.ipynb){: .btn .btn-green }| |
+|Sesion|[Mat 7](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_08_clasificacion_v2.ipynb){: .btn .btn-green }| |
 
 <!--
 | Introducción|  | |
