@@ -58,8 +58,9 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Regresion multivariada y Ecuacion normal| [Mat 6](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_06_normal_equation_v2.ipynb){: .btn .btn-green }| |
 |Presentacion| [Regularizacion](https://docs.google.com/presentation/d/1vVA1yCfnmAFl4NsY8NlTjdCRhp_Ik8lY/edit?usp=sharing&ouid=111183600937972261202&rtpof=true&sd=true){: .btn .btn-green }| |
 |Laboratorio ABC  | [Lab 7ABC](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_07_abc_modelo_v2.ipynb){: .btn .btn-green }| |
+
 | Clasificación logistica |  | |
-|--------|-----------|
+|--------|-----------||-----------|
 |Sesion|[Mat 7](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_08_clasificacionLogistica_v2.ipynb){: .btn .btn-green }| |
 
 <!--
