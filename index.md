@@ -63,6 +63,14 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |--------|-----------|-----------|
 |Sesion|[Mat 7](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Sesiones/Sesion_08_clasificacion_v2.ipynb){: .btn .btn-green }| |
 
+
+|Segunda parte del curso|  | | 
+|--------|-----------|-----------|
+|Intro|[Introduccion ](https://docs.google.com/presentation/d/1hnvtpWoQzvwde0Sg-s93Is8Bx7LSfJ44dTEkwG2C26Q/edit?usp=sharing){: .btn .btn-green }| |
+|Regresión Lógistica|[Mat 1 ](https://docs.google.com/presentation/d/13DmMj7gfAs5hBlkeV5SQ9bzXxhyIwz1gGE7_J1FDHLw/edit?usp=sharing){: .btn .btn-green }| |
+
+
+
 <!--
 | Introducción|  | |
 |--------|-----------|
