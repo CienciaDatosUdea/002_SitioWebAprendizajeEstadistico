@@ -16,6 +16,8 @@ permalink: /
 Este es la web del curso de aprendizaje estadístico del instituto de física de la Universidad de Antioquia
 {: .fs-6 .fw-300 }
 
+[Github](https://github.com/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico)
+
 <!-- [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } -->
 <!-- [Libro guia](https://restrepo.github.io/ComputationalMethods/){: .btn .fs-5 .mb-4 .mb-md-0 } -->
 
@@ -74,7 +76,6 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Segunda parte del curso|  | | 
 |--------|-----------|-----------|
 |Redes neuronales|[Lab ](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_08_nn_zeroV1.ipynb){: .btn .btn-green }| |
-
 
 
 
