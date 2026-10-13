@@ -71,6 +71,13 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 
 
+|Segunda parte del curso|  | | 
+|--------|-----------|-----------|
+|Redes neuronales|[Lab ](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_08_nn_zeroV1.ipynb){: .btn .btn-green }| |
+
+
+
+
 <!--
 | Introducción|  | |
 |--------|-----------|
