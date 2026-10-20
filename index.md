@@ -78,6 +78,10 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Redes neuronales|[Lab ](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_08_nn_zeroV1.ipynb){: .btn .btn-green }| |
 
 
+|Redes neuronales|[Presentacion ](https://docs.google.com/presentation/d/1cJPJFrrvilnF23AzShGAIOjkHPhOX_DkWE6zSFpDvBU/edit?usp=sharing){: .btn .btn-green }| |
+|Redes neuronales|[Lab 09](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_09_nn_aplicacionV1.ipynb){: .btn .btn-green }| |
+|Redes neuronales|[Lab  10](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_10_nn_keras__V1.ipynb){: .btn .btn-green }| |
+
 
 <!--
 | Introducción|  | |
