@@ -83,6 +83,13 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 |Redes neuronales|[Lab  10](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_10_nn_keras__V1.ipynb){: .btn .btn-green }| |
 
 
+
+|CNN|[Presentacion ](https://docs.google.com/presentation/d/10ycEl6fEWXjDWQ6YGQ5oqOzoMwDjq2P4/edit?usp=sharing&ouid=113907049151858803895&rtpof=true&sd=true){: .btn .btn-green }| |
+|Sesion|[Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_17_convolution_nn.ipynb){: .btn .btn-green }| |
+|cnn|[Lab  10](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_11_redes_neuronales_convolucionales.ipynb){: .btn .btn-green }| |
+
+
+
 <!--
 | Introducción|  | |
 |--------|-----------|
