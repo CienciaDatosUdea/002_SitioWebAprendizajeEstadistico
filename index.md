@@ -90,6 +90,11 @@ En las tablas se incluyen los link a los laboratorio, notas de clase y actividad
 
 
 
+|Redes de hopfield|[Presentacion ](){: .btn .btn-green }| |
+|Sesion|[Mat](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2025-2/Sesiones/Sesion_17_convolution_nn.ipynb){: .btn .btn-green }| |
+|cnn|[Lab  10](https://colab.research.google.com/github/CienciaDatosUdea/002_EstudiantesAprendizajeEstadistico/blob/main/semestre2026-2/Laboratorios/Laboratorio_11_redes_neuronales_convolucionales.ipynb){: .btn .btn-green }| |
+
+
 <!--
 | Introducción|  | |
 |--------|-----------|
